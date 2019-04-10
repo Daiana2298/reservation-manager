@@ -11,7 +11,7 @@ public class User {
     // optional field (only if users will require it)
     private String nickName;
     private int age;
-    
+
     // field that says if the user owns a company that you can get reservations to
     private boolean isOwner;
 
